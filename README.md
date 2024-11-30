@@ -1,5 +1,5 @@
 <h1 align="center"> I'm Riyad Abdullayev</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend & Backend dev</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
